@@ -38,7 +38,7 @@ Most classical ML models assume the input to be a 1-D vector, however certain ty
 - *TF-IDF* - a transformed version of bag of words that takes into account relative frequencies of terms in documents while normalizing large counts with a log transform
 - *Word Embeddings* - essentially just vectors assigned to each word. Similar words should have vectors pointing in similar directions. 
 
-# Summary
+## Summary
 
 - 3 types of learning: supervised, unsupervised, reinforcement learning
 - many models assume a 1-D input, but for special cases some data can be represented with other shapes and passed as input to appropriate architectures
