@@ -18,8 +18,9 @@ This repo contains my ongoing notes, exercise solutions, from-scratch implementa
 
 ## Some highlights and neat plots:
 
-**From-Scratch Multivariate Gaussian + Monte Carlo Integration**
+**From-Scratch Multivariate Gaussian**
+
+This one was fun. Ended up learning how to do monte carlo integration in order to evaluate the cdf.
 
 ![2d mvn](images/2d_mvn.png)
-
 
