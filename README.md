@@ -24,3 +24,12 @@ This one was fun. Ended up learning how to do monte carlo integration in order t
 
 ![2d mvn](images/2d_mvn.png)
 
+## To build my python environment
+
+The python environment for this project is managed with uv. If you don't have uv installed, [view the instructions for installing uv.](https://docs.astral.sh/uv/getting-started/installation/)
+
+Once uv is installed, build a suitable environment with:
+
+```bash
+uv sync
+```
