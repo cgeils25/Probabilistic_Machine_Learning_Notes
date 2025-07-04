@@ -15,6 +15,7 @@ This repo contains my ongoing notes, exercise solutions, from-scratch implementa
 **From-Scratch Implementations**
 - [Chapter 2 - Softmax with Log-sum-exp trick](Chapter_2/softmax.ipynb)
 - [Chapter 3 - Multivariate Gaussian + Monte Carlo Integration](Chapter_3/multivariate_gaussian.ipynb)
+- [Chapter 4 - Exponentially Weighted Moving Average](Chapter_4/exponentially_weighted_moving_average.ipynb)
 
 ## Some highlights and neat plots:
 
