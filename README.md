@@ -11,6 +11,7 @@ This repo contains my ongoing notes, exercise solutions, from-scratch implementa
 - [Chapter 1 - Introduction](Chapter_1/ch_1_notes.md)
 - [Chapter 2 - Probability: Univariate Models](Chapter_2/ch_2_notes.md)
 - [Chapter 3 - Probability: Multivariate Models](Chapter_3/ch_3_notes.md)
+- [Chapter 4 - Statistics](Chapter_4/ch_4_notes.md)
 
 **From-Scratch Implementations**
 - [Chapter 2 - Softmax with Log-sum-exp trick](Chapter_2/softmax.ipynb)
