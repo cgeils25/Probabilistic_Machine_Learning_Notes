@@ -12,12 +12,14 @@ This repo contains my ongoing notes, exercise solutions, from-scratch implementa
 - [Chapter 2 - Probability: Univariate Models](Chapter_2/ch_2_notes.md)
 - [Chapter 3 - Probability: Multivariate Models](Chapter_3/ch_3_notes.md)
 - [Chapter 4 - Statistics](Chapter_4/ch_4_notes.md)
+- [Chapter 5 - Decision Theory](Chapter_5/ch_5_notes.md)
 
 **From-Scratch Implementations**
 - [Chapter 2 - Softmax with Log-sum-exp trick](Chapter_2/softmax.ipynb)
 - [Chapter 3 - Multivariate Gaussian + Monte Carlo Integration](Chapter_3/multivariate_gaussian.ipynb)
 - [Chapter 4 - Exponentially Weighted Moving Average](Chapter_4/exponentially_weighted_moving_average.ipynb)
 - [Chapter 5 - Precision-Recall Curve](Chapter_5/precision_recall_curve.ipynb)
+- [Chapter 5 - Logistic Regression w/ Cost-Based Classification](Chapter_5/cost_based_classification.ipynb)
 
 ## Some highlights and neat plots:
 
