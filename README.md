@@ -19,7 +19,7 @@ This repo contains my ongoing notes, exercise solutions, from-scratch implementa
 - [Chapter 3 - Multivariate Gaussian + Monte Carlo Integration](Chapter_3/multivariate_gaussian.ipynb)
 - [Chapter 4 - Exponentially Weighted Moving Average](Chapter_4/exponentially_weighted_moving_average.ipynb)
 - [Chapter 5 - Precision-Recall Curve](Chapter_5/precision_recall_curve.ipynb)
-- [Chapter 5 - Logistic Regression w/ Cost-Based Classification](Chapter_5/cost_based_classification.ipynb)
+- [Chapter 5 - Logistic Regression w/ Weighted Loss Function](Chapter_5/weighted_logistic_regression.ipynb)
 
 ## Some highlights and neat plots:
 
