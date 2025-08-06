@@ -13,6 +13,7 @@ This repo contains my ongoing notes, exercise solutions, from-scratch implementa
 - [Chapter 3 - Probability: Multivariate Models](Chapter_3/ch_3_notes.md)
 - [Chapter 4 - Statistics](Chapter_4/ch_4_notes.md)
 - [Chapter 5 - Decision Theory](Chapter_5/ch_5_notes.md)
+- [Chapter 6 - Information Theory](Chapter_6/ch_6_notes.md)
 
 **From-Scratch Implementations**
 - [Chapter 2 - Softmax with Log-sum-exp trick](Chapter_2/softmax.ipynb)
